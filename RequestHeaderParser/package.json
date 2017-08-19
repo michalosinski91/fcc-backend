@@ -1,0 +1,15 @@
+{
+  "name": "headerparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express-useragent": "^1.0.7"
+  }
+}
